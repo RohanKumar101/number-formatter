@@ -1,0 +1,22 @@
+{
+  "name": "number-formatter",
+  "version": "1.0.0",
+  "description": "A simple package for number formatting",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RohanKumar101/number-formatter.git"
+  },
+  "author": "lazydev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RohanKumar101/number-formatter/issues"
+  },
+  "homepage": "https://github.com/RohanKumar101/number-formatter#readme",
+  "devDependencies": {
+    "jest": "^30.0.5"
+  }
+}
