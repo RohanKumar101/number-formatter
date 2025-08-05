@@ -5,4 +5,4 @@ A simple utility library for common number formatting tasks like currency, perce
 ## Installation
 
 ```bash
-npm install number-formatter
+npm install lazy-number-formatter
